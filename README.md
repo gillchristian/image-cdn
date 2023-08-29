@@ -1,1 +1,3 @@
-# image-cnd
+# image-cdn
+
+GitHub issues as an image CDN
